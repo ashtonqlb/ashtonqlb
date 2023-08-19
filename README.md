@@ -11,3 +11,10 @@
 
 ---
 ### ⛏️ Languages and Tools
+<a href="https://en.cppreference.com/w/c/language" target="_blank"><img align="left" alt="C language" height ="42px" src="/icons/c.svg"></a>
+<a href="https://www.cplusplus.com/" target="_blank"><img align="left" alt="C++" height ="42px" src="/icons/c++.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="/icons/js.svg"> </a>
+<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" height ="42px" src="/icons/python.svg"></a>
+<a href="discord.com" targt="_blank"> <img src="icons/discord.svg" align=left alt="discord" height="42px" /> </a>
+<a href="https://ubuntu.com/" target="_blank"><img align="left" alt="Ubuntu" height ="42px" src="/icons/ubuntu.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="/icons/git.svg" align="left" alt="git" height='42px'/> </a>
