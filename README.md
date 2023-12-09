@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ashtonqlb">LinkedIn</a> •
   <a href="https://ashtonqlb.github.io/">Website</a> •
-  <a href="mailto:ashtonqlb@disroot.org">Send an email</a>
+  <a href="mailto:ashtonquinn@disroot.org">Send an email</a>
 </p>
 🌟 I'm a second year Computer Programming & Analysis student at Seneca Polytechnic. As a fresh face, most of my work published here is an exercise in teaching myself a wide variety of different languages.</p>
 
