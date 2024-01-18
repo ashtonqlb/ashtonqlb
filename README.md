@@ -5,7 +5,7 @@
   <a href="https://ashtonqlb.github.io/">Website</a> •
   <a href="mailto:ashtonquinn@disroot.org">Send an email</a>
 </p>
-🌟 I'm a second year Computer Programming & Analysis student at Seneca Polytechnic. As a fresh face, most of my work published here is an exercise in teaching myself a wide variety of different languages.</p>
+🌟 I'm a third year Computer Programming & Analysis student at Seneca Polytechnic. As a fresh face, most of my work published here is an exercise in teaching myself a wide variety of different languages.</p>
 
 👯 I'm always interested in collaborating on any exciting new projects. Feel free to contact me!
 
