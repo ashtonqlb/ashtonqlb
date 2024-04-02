@@ -2,8 +2,8 @@
 <h3 align="center">👋 I'm Ashton!</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/ashtonqlb">LinkedIn</a> •
-  <a href="https://ashtonqlb.github.io/">Website</a> •
-  <a href="mailto:ashtonquinn@disroot.org">Send an email</a>
+  <a href="https://spysat.net">My website</a> •
+  <a href="mailto:ashton@spysat.net">Send me an email</a>
 </p>
 🌟 I'm a third year Computer Programming & Analysis student at Seneca Polytechnic. As a fresh face, most of my work published here is an exercise in teaching myself a wide variety of different languages.</p>
 
